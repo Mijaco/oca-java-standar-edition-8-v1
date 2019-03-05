@@ -1,0 +1,51 @@
+
+
+// cuando escribe y cuando declara
+ x++ (reflejo en la siguiente linea) , 
+ ++x(reflejo en el momento)
+
+//ninguno funciona cuando compara para boolean
+// la tercera sección del for se ejecuta por último, luego de la sección del {...}
+
+//char caracter se puede parsear a entero
+
+//un caracter
+'a' == 97
+//
+If the value is in the range -128 to 127, it returns the instance from the cache (same object)
+
+//concat() es 
+
+//add(index,valor)
+patea a la derecha los valores
+
+//si int recibe null en declaracion (nullPointer)
+//Si Integer recibe null en declaracion (no pasa nada)
+
+//String[] stringArray = list.toArray(new String[indice]);
+
+indice = menor que List.lenght para mantener mismo tamaño que el length, si es mayor toma el indice puesto.
+
+// Duration & Period
+permite intervalos de tiempo
+
+Period te permite extraer con mejor lectura (años dias etc)
+Duration está orientado a tiempos pequeños (segundos y nanos)
+
+// no se puede aplicar formatter a aquello que solo tiene Date(yy,mm,dd) y que no coincida lo q se formatea con el localdate creado (ejm: no se puede formater un localTime con algo que posee YY)
+
+// un array de primitivos si se puede hacer instance pero como primitivo no
+
+
+// Sonar paquetes
+// Logs de apis en producción
+// warnings de sonar, niv complexity code
+// en el switch , default no necesita break, los demas sí
+
+//default : desde el mismo paquete
+//protected : desde el mismo paquete y en herencia
+
+// lambda : para pasar como parámetro una interface, esta interface debe poseer solo un metodo abstracto
+
+
+
