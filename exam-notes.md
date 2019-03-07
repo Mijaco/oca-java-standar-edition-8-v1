@@ -47,5 +47,18 @@ Duration está orientado a tiempos pequeños (segundos y nanos)
 
 // lambda : para pasar como parámetro una interface, esta interface debe poseer solo un metodo abstracto
 
+// no se puede hacer new a una clase abstracta
+// 2 String son iguales (==) si son declaradas sin "new"
+
+//El switch cae donde debe caer y empieza a bajar, si no hay break baja por todos los cases incluido el default.
+// En el switch no es obligatorio default, y puede estar ubicado en cualquier lado
+
+//this es una variable más (que representa la clase) no puede estar dentro de un método static porque la variable this no es static
+//Solo puede existir una clase public en un archivo. El archivo se puede llamar diferente a la clase si es que no existe ninguna clase public.
+
+// new invoca siempre primero al constructor "()" del padre. Así se invoque un constructor con parámetros.
+
+
+
 
 
