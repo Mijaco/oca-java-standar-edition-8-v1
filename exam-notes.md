@@ -60,5 +60,19 @@ Duration está orientado a tiempos pequeños (segundos y nanos)
 
 
 
+// 07/05/2019
+capacity is defined by java // StringBuilder sb = new StringBuilder(5);
+size is defined by the characters we add.
+StringBuilder sb = new StringBuilder("animals");
+StringBuilder sb = new StringBuilder("123");
+
+La capacidad de sb la define java
+El size es 10.
+
+
+
+
+
+
 
 
